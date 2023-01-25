@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
 
+*.png
 # Log file
 *.log
 
